@@ -2,7 +2,7 @@ function y = win(x)
 %
 %    usage : y = win(x)
 %   
-%    gives '1' to winner output, '-1' otherwise.
+%    gives '1' to winner output, '-1' otherwise
 %
 %
 
